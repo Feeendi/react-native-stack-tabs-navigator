@@ -1,0 +1,28 @@
+{
+  "localusers": [
+    {
+      "nama": "Tiyan",
+      "alamat": "Solo",
+      "handphone": "0857625435452",
+      "id": 1
+    },
+    {
+      "nama": "Adri",
+      "alamat": "Sukoharjo",
+      "handphone": "082137275576",
+      "id": 2
+    },
+    {
+      "nama": "Bagus",
+      "alamat": "Sragen",
+      "handphone": "085601768909",
+      "id": 3
+    },
+    {
+      "nama": "Della",
+      "alamat": "Klaten",
+      "handphone": "085866180377",
+      "id": 4
+    }
+  ]
+}
